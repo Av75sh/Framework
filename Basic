@@ -16,3 +16,12 @@
                                                         +-- ConcurrentSkipListSet                                       +--  ArrayDeque
                                                                                                                         +-- LinkedList
                                                                                                                         +--ConcurrentLinkedDeue
+
+
+
+List => Ordered collection (allow Duplicate)
+Set  => Unordered collection ( no duplicates)
+Queue => FIFO (like list)
+Deque => Double ended queue 
+Map   => an interface with collection of key & value pairs
+Stack  => LIFO

@@ -1,5 +1,5 @@
 package ArrayList;
-import java.util.ArrayList;   // Not Thread-Safe  (array size => 2*n)
+import java.util.ArrayList;   // Not Thread-Safe  (array size => 1.5*n)
 
 
 public class list {
